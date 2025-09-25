@@ -462,7 +462,7 @@ export default function Portfolio() {
               className="bg-primary text-primary-foreground hover:bg-primary/90 hover:scale-105 transition-all duration-300"
             >
               <MessageCircle className="w-5 h-5 mr-2" />
-              Discord: bojkaclat#1337
+              Discord: bojkaclat
             </Button>
             <Button
               variant="outline"
@@ -470,7 +470,7 @@ export default function Portfolio() {
               className="border-primary/20 hover:bg-primary/10 bg-transparent hover:scale-105 transition-all duration-300"
             >
               <Github className="w-5 h-5 mr-2" />
-              GitHub: @bojkaclat
+              GitHub: @BinsterPL
             </Button>
           </div>
           <div className="mt-8 text-sm text-muted-foreground">
